@@ -1,16 +1,19 @@
-### Hi there 👋
+ Hey there 👋😄
 
-<!--
-**Mpumelelo-dev/Mpumelelo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on  building a Mobile Application 📱💻
 
-Here are some ideas to get you started:
+- 📌DESCRIPTION OF AN APP 📂  :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+The mobile app that is user friendly for learners when they have to choose a career path 👨‍🏫⚕️👮👨‍🔬👩‍🌾👩‍🎤👩‍🎨👩‍💻 ,
+It will have a welcome page which will enable them to also enter their names
+then a learner will be able to enter their academic details(subjects and results)
+the application will be able to output which faculty is their strong point based on their results
+it will then ask if the person would like to see the suggested courses on that faculty or not, 
+if they choose no they will have exit 🔚 option and an option to go back 🔙 and
+if they choose yes it will show suggested courses and universities for that course with links to apply.
+
+- 📫 How to reach me:
+
+Email📥: 
+  lelongozo9224@gmail.com
 -->
