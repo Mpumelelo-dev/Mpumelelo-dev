@@ -12,6 +12,10 @@ it will then ask if the person would like to see the suggested courses on that f
 if they choose no they will have exit 🔚 option and an option to go back 🔙 and
 if they choose yes it will show suggested courses and universities for that course with links to apply.
 
+- Am currently Learning with 👩‍💻📚 :
+ 
+ https://www.appoftheyear.co.za/app-academy/ in collaboration with https://online.itvarsity.org/
+
 - 📫 How to reach me:
 
 Email📥: 
