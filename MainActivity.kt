@@ -1,17 +1,22 @@
-package com.example.thutopele
+package com.example.thutoapp
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Toast
-import androidx.appcompat.app.ActionBarDrawerToggle
-import androidx.drawerlayout.widget.DrawerLayout
-import com.google.android.material.navigation.NavigationView
+import android.widget.Button
 
 class MainActivity : AppCompatActivity() {
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
 
+        setContentView(R.layout.activity_main)
+        val button : Button = findViewById(R.id.button2)
+        button.setOnClickListener{
+            val intent = Intent (this, RegisterActivity::class.java)
+            startActivity(intent)
+        }
     }
+
+
+
 }

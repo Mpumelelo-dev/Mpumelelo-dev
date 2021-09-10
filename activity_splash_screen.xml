@@ -9,7 +9,7 @@
     tools:context=".SplashScreen">
 
     <ImageView
-        android:contentDescription="@string/todo"
+
         android:id="@+id/SplashScreenImage"
         android:layout_width="300dp"
         android:layout_height="200dp"

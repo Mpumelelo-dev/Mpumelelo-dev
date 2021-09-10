@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.thutopele">
+    package="com.example.thutoapp">
 
     <application
         android:allowBackup="true"
@@ -8,34 +8,19 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.ThutoPele">
+        android:theme="@style/Theme.ThutoApp">
         <activity
-            android:name=".button3"
+            android:name=".HomeActivity"
             android:exported="true" />
         <activity
-            android:name=".button2"
-            android:exported="true" />
-        <activity
-            android:name=".button1"
-            android:exported="true" />
-        <activity
-            android:name=".dashboard"
+            android:name=".RegisterActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true" />
         <activity
-            android:name=".NavigationDrawer"
-            android:exported="true" />
-        <activity
-            android:name=".navigatorDrawer"
-            android:exported="true"
-            android:label="@string/title_activity_navigator_drawer"
-            android:theme="@style/Theme.ThutoPele.NoActionBar" />
-        <activity
             android:name=".SplashScreen"
-            android:exported="true"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
