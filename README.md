@@ -14,7 +14,7 @@ if they choose yes it will show suggested courses and universities for that cour
 
 - Am currently Learning with 👩‍💻📚 :
  
- https://www.appoftheyear.co.za/app-academy/ in collaboration with https://online.itvarsity.org/
+ https://www.appoftheyear.co.za/app-academy/ in collaboration with https://online.itvarsity.org/ and https://www.geekulcha.dev/
 
 - 📫 How to reach me:
 
