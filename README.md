@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mpumelelo Ngozo</h1>
-<h3 align="center">A passionate full stack developer from Pretoria</h3>
+<h3 align="center">A passionate full stack developer from Johannesburg</h3>
 
 - 🌱 I’m currently learning **Python and Django**
 
