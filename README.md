@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Core Java on Udemy**
 
-- 🌱 I’m currently preparing to write **Certified Associate in Python Programming(PCAP)**
 
 - 📫 How to reach me **lelongozo9224@gmail.com**
 
