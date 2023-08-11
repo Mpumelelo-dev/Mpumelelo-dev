@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mpumelelo Ngozo</h1>
 <h3 align="center">A passionate full stack developer from Johannesburg</h3>
 
-- 🌱 I’m currently learning **Core Java on Udemy**
+- 🌱 I’m currently Preparing for a **aws cloud practitioner exam**
 
 - 🌱 I'm currently enrolled in a full stack development course with the **SheCode Foundation**
 
