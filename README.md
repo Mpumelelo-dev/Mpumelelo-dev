@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **Core Java on Udemy**
 
+- 🌱 I'm currently enrolled in a full stack development course with the **SheCode Foundation**
 
 - 📫 How to reach me **lelongozo9224@gmail.com**
 
