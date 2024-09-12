@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mpumelelo Ngozo</h1>
-<h3 align="center">A passionate full stack developer from Cape Town</h3>
+<h3 align="center">A passionate full stack developer based in Cape Town</h3>
 
 
 - 🌱 Certified Associate in Python Programming  
