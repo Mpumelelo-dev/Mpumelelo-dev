@@ -5,8 +5,8 @@
 - 🌱 Certified Associate in Python Programming  
 
 - 🌱 AWS Certified Cloud Practitioner
-- 
-- - 🌱 AWS Certified Data Engineer
+- 🌱 AWS Certified DevOps Engineer
+-  🌱 AWS Certified Data Engineer
   
 - 🌱 I’m currently in the aws cloud and data engineering space
 
